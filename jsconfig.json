@@ -1,0 +1,10 @@
+// get@符做提示的
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@/*": ["src/*"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}
